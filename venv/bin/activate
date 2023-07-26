@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/adelsbergsky/Документы/projects/zg-utilities/venv"
+VIRTUAL_ENV="/home/adelsbergsky/Документы/projects/sysadmin-scripts/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

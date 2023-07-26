@@ -1,4 +1,4 @@
-#!/home/adelsbergsky/Документы/projects/zg-utilities/venv/bin/python
+#!/home/adelsbergsky/Документы/projects/sysadmin-scripts/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
