@@ -1,7 +1,7 @@
 import os
 from datetime import datetime, timedelta
 import time
-path = r'\\10.2.2.1\RPTKBackup\RPTKARH' # Archives directory
+path = r'\\10.2.2.2\RPTKBackup\RPTKARH' # Archives directory
 #D:\RPTKARH'
 now = datetime.now() # Current date and time
 os.chdir(path)
